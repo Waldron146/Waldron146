@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://wallpaperaccess.com/full/3264380.jpg" alt="Alt text" width="500" height="300" />
+<img src="https://wallpaperaccess.com/full/3264380.jpg" alt="Alt text" width="500" height="300" style="float: right; margin-left: 10px;" />
 
 ###
 
