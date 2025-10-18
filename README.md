@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 I'm a passionate web enthusiast who loves bringing ideas to life through **clean, elegant code** and **creative design**.  
-I enjoy turning ideas into **interactive, user-friendly experiences** using HTML, CSS, JavaScript, and I’m currently learning **PHP**.
+I enjoy turning ideas into **interactive, user-friendly experiences** using HTML, CSS, JavaScript, and I’m currently learning about React.js.
 
 💡 *“The best way to predict the future is to code it.”*
 
@@ -25,7 +25,7 @@ I enjoy turning ideas into **interactive, user-friendly experiences** using HTML
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,CodePen,git,github,vscode,figma" />
 </p>
 
 ---
