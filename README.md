@@ -33,7 +33,6 @@ I enjoy turning ideas into **interactive, user-friendly experiences** using HTML
 ### 🚀 Featured Projects
 | Project | Description | Live Demo |
 |----------|--------------|------------|
-| 🐺 **Wolves Info Page** | An informational site I built to practice layout and structure. | [View Project](#) |
 | 🎨 **Portfolio Website** | My personal portfolio built with HTML, CSS & JS. | [View Portfolio](https://waldron146.github.io/portfolio-site/) |
 
 ---
