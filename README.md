@@ -5,7 +5,7 @@
   <a href="mailto:Waldroncameron@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/CameronWaldron" target="_blank">
+  <a href="https://www.linkedin.com/in/cameron-waldron-724765343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Waldron146" target="_blank">
